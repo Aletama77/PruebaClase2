@@ -15,5 +15,6 @@ int main(void) {
 	setbuf(stdout,NULL);
 
 
+	int numero;
 	return EXIT_SUCCESS;
 }
